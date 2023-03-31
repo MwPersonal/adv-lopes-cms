@@ -1,0 +1,44 @@
+{
+  ":name": "ADV-Lopes",
+  "professionals": {
+    ":name": "Profissionais",
+    ":description": "Lista de profissionais",
+    ":items": {
+      "nome": { ":type": "line" },
+      "sobrenome": { ":type": "line" },
+      "foto": {
+        ":description": "Foto do profissional",
+        ":type": "image"
+      },
+      "cargo": {
+        ":description": "Cargo do profissional, exemplo: Sócio, Associado, etc.",
+        ":type": "line"
+      },
+      "descricao": {
+        ":name": "Descrição",
+        ":type": "text"
+      },
+      "tipo": {
+        ":description": "Tipo de profissional, exemplo: Advogado SP",
+        ":type": "line"
+      },
+      "celular": { ":type": "line" },
+      "email": { ":type": "line" },
+      "oab": { ":type": "line" },
+      "formacoes": {
+        ":name": "Formações",
+        ":description": "Formações do profissional, exemplo: Master of Law, UK University, etc.",
+        ":items": {
+          "nome": { ":type": "line" }
+        }
+      },
+      "areas": {
+        ":name": "Áreas de atuação",
+        ":description": "Áreas de atuação do profissional, exemplo: Cível, Trabalhista, etc.",
+        ":items": {
+          "nome": { ":type": "line" }
+        }
+      }
+    }
+  }
+}
