@@ -50,6 +50,10 @@
         ":description": "Título da área de atuação, exemplo: DIREITO CIVIL: DEFINIÇÃO E EXEMPLOS",
         ":type": "line"
       },
+      "icone": {
+        ":description": "Ícone da área de atuação, exemplo: FaBalanceScale, BiBriefcase, BiStore, etc.",
+        ":type": "line"
+      },
       "descricao": {
         ":name": "Descrição",
         ":type": "text",
