@@ -40,5 +40,21 @@
         }
       }
     }
+  },
+  "areas": {
+    ":name": "Áreas de atuação",
+    ":description": "Lista de áreas de atuação",
+    ":items": {
+      "nome": { ":type": "line" },
+      "titulo": {
+        ":description": "Título da área de atuação, exemplo: DIREITO CIVIL: DEFINIÇÃO E EXEMPLOS",
+        ":type": "line"
+      },
+      "descricao": {
+        ":name": "Descrição",
+        ":type": "text",
+        ":richtext": true
+      }
+    }
   }
 }
