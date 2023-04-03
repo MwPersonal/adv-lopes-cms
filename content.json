@@ -63,5 +63,12 @@
         }
       ]
     }
+  ],
+  "areas": [
+    {
+      "nome": "Cível",
+      "titulo": "DIREITO CIVIL: DEFINIÇÃO E EXEMPLOS",
+      "descricao": "<p>O Direito Civil pode ser entendido como o “direito do cidadão”. Dessa forma, é um ramo do direito privado,<br>que tem como objetivo determinar as regras e condutas que pessoas físicas e jurídicas devem ter em sociedade.<br>O Código Civil de 2002 (Lei 10.406/2002) é o principal diploma legal dessa área.<br><br>Presente no cotidiano de todas as pessoas, o Direito Civil é provavelmente a área mais complexa e extensa do direito do Brasil, abordando todas as questões jurídicas de pessoas naturais e físicas na esfera privada. <br><br>Podendo ser apresentado como sinônimo de direito privado, o Direito Civil pode ser descrito como o “direito do cidadão”, que rege as condutas das pessoas na vida em sociedade. <br><br>Entretanto, o ordenamento jurídico brasileiro não o traz de forma tão abrangente, fazendo as divisões necessárias para abordar assuntos da vida privada de forma mais específica. <br><br>Este artigo tem como objetivo fazer um resumo do que é o Direito Civil e de como ele é aplicado na área jurídica brasileira, além de apresentar o Código Civil e as suas particularidades e indicar alguns livros sobre o assunto. Continue o artigo abaixo!</p>"
+    }
   ]
 }
