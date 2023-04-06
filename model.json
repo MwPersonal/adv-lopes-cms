@@ -56,7 +56,7 @@
       },
       "icone": {
         ":description": "Ícone da área de atuação, exemplo: FaBalanceScale, BiBriefcase, BiStore, etc.",
-        ":type": "line"
+        ":type": "image"
       },
       "descricao": {
         ":name": "Descrição",
