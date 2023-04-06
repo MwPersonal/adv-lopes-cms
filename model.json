@@ -45,6 +45,10 @@
     ":name": "Áreas de atuação",
     ":description": "Lista de áreas de atuação",
     ":items": {
+      "slug": {
+        ":description": "Slug da área de atuação, exemplo: civil",
+        ":type": "line"
+      },
       "nome": { ":type": "line" },
       "titulo": {
         ":description": "Título da área de atuação, exemplo: DIREITO CIVIL: DEFINIÇÃO E EXEMPLOS",
