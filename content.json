@@ -82,25 +82,53 @@
       "slug": "comercial",
       "nome": "Comercial",
       "titulo": "DIREITO COMERCIAL: DEFINIÇÃO E EXEMPLOS",
-      "descricao": "<p>O Direito Comercial é o ramo do direito que regula as atividades econômicas, tanto das empresas quanto dos empresários individuais. Ele é responsável por estabelecer as normas que regem as relações comerciais, como as práticas comerciais, os contratos, a falência e a recuperação judicial.</p><p>Este ramo do direito é fundamental para a economia do país, pois busca proteger e garantir a livre iniciativa e a concorrência saudável entre as empresas, além de proteger os consumidores. Alguns exemplos de temas tratados pelo Direito Comercial são a organização e o funcionamento das empresas, as sociedades empresárias, a propriedade industrial e a propriedade intelectual.</p><p>O principal diploma legal do Direito Comercial é o Código Comercial de 1850, que atualmente está em desuso. No entanto, ainda é aplicado em casos específicos, como nas atividades portuárias.</p>"
+      "descricao": "<p>O Direito Comercial é o ramo do direito que regula as atividades econômicas, tanto das empresas quanto dos empresários individuais. Ele é responsável por estabelecer as normas que regem as relações comerciais, como as práticas comerciais, os contratos, a falência e a recuperação judicial.</p><p>Este ramo do direito é fundamental para a economia do país, pois busca proteger e garantir a livre iniciativa e a concorrência saudável entre as empresas, além de proteger os consumidores. Alguns exemplos de temas tratados pelo Direito Comercial são a organização e o funcionamento das empresas, as sociedades empresárias, a propriedade industrial e a propriedade intelectual.</p><p>O principal diploma legal do Direito Comercial é o Código Comercial de 1850, que atualmente está em desuso. No entanto, ainda é aplicado em casos específicos, como nas atividades portuárias.</p>",
+      "icone": {
+        "provider": "uploadcare",
+        "type": "image",
+        "id": "53e8b0d0-890f-4f53-95b5-214e44100e1d",
+        "height": 24,
+        "width": 24
+      }
     },
     {
       "slug": "criminal",
       "nome": "Criminal",
       "titulo": "DIREITO CRIMINAL: DEFINIÇÃO E EXEMPLOS",
-      "descricao": "<p>O Direito Criminal é o ramo do direito que se dedica a regular as condutas que são consideradas crimes e a aplicação das sanções penais correspondentes. É responsável por definir o que é crime, como ele deve ser punido e quais são as formas de prevenção e repressão.</p><p>Este ramo do direito é fundamental para garantir a segurança da sociedade e a proteção dos direitos humanos, buscando punir os crimes cometidos e prevenir a sua ocorrência. Alguns exemplos de crimes que são regulados pelo Direito Criminal são homicídio, roubo, estelionato, tráfico de drogas, entre outros.</p><p>O principal diploma legal do Direito Criminal é o Código Penal Brasileiro, que foi promulgado em 1940 e estabelece as normas para os crimes em território nacional.</p>"
+      "descricao": "<p>O Direito Criminal é o ramo do direito que se dedica a regular as condutas que são consideradas crimes e a aplicação das sanções penais correspondentes. É responsável por definir o que é crime, como ele deve ser punido e quais são as formas de prevenção e repressão.</p><p>Este ramo do direito é fundamental para garantir a segurança da sociedade e a proteção dos direitos humanos, buscando punir os crimes cometidos e prevenir a sua ocorrência. Alguns exemplos de crimes que são regulados pelo Direito Criminal são homicídio, roubo, estelionato, tráfico de drogas, entre outros.</p><p>O principal diploma legal do Direito Criminal é o Código Penal Brasileiro, que foi promulgado em 1940 e estabelece as normas para os crimes em território nacional.</p>",
+      "icone": {
+        "provider": "uploadcare",
+        "type": "image",
+        "id": "e7e82e29-d4e4-43f1-b577-8a63ec36d8a1",
+        "height": 300,
+        "width": 300
+      }
     },
     {
       "slug": "tributario",
       "nome": "Tributário",
       "titulo": "DIREITO TRIBUTÁRIO: DEFINIÇÃO E EXEMPLOS",
-      "descricao": "<p>O Direito Tributário é o ramo do direito que regula a arrecadação, fiscalização e cobrança dos tributos, que são as obrigações financeiras impostas pelo Estado aos contribuintes. Ele tem como objetivo principal garantir a receita pública para o financiamento das atividades estatais, como saúde, educação, segurança, entre outras.</p><p>Este ramo do direito é fundamental para a economia do país, pois busca garantir a arrecadação justa dos tributos, evitando a sonegação fiscal e a evasão de divisas. Alguns exemplos de tributos regulados pelo Direito Tributário são o Imposto de Renda, o Imposto sobre a Propriedade de Veículos Automotores (IPVA), o Imposto sobre Circulação de Mercadorias e Serviços (ICMS), entre outros.</p><p>O principal diploma legal do Direito Tributário é o Código Tributário Nacional (CTN), que foi promulgado em 1966 e estabelece as normas gerais sobre tributação em território nacional. Além disso, existem diversas outras leis, decretos e instruções normativas que regulam os tributos em níveis federal, estadual e municipal.</p><p>O Direito Tributário também está relacionado à análise e interpretação da Constituição Federal, que estabelece as competências tributárias dos entes federativos e as garantias fundamentais dos contribuintes.</p><p>Em resumo, o Direito Tributário é responsável por garantir a justa arrecadação dos tributos, proteger os direitos dos contribuintes e contribuir para o desenvolvimento econômico do país.</p>"
+      "descricao": "<p>O Direito Tributário é o ramo do direito que regula a arrecadação, fiscalização e cobrança dos tributos, que são as obrigações financeiras impostas pelo Estado aos contribuintes. Ele tem como objetivo principal garantir a receita pública para o financiamento das atividades estatais, como saúde, educação, segurança, entre outras.</p><p>Este ramo do direito é fundamental para a economia do país, pois busca garantir a arrecadação justa dos tributos, evitando a sonegação fiscal e a evasão de divisas. Alguns exemplos de tributos regulados pelo Direito Tributário são o Imposto de Renda, o Imposto sobre a Propriedade de Veículos Automotores (IPVA), o Imposto sobre Circulação de Mercadorias e Serviços (ICMS), entre outros.</p><p>O principal diploma legal do Direito Tributário é o Código Tributário Nacional (CTN), que foi promulgado em 1966 e estabelece as normas gerais sobre tributação em território nacional. Além disso, existem diversas outras leis, decretos e instruções normativas que regulam os tributos em níveis federal, estadual e municipal.</p><p>O Direito Tributário também está relacionado à análise e interpretação da Constituição Federal, que estabelece as competências tributárias dos entes federativos e as garantias fundamentais dos contribuintes.</p><p>Em resumo, o Direito Tributário é responsável por garantir a justa arrecadação dos tributos, proteger os direitos dos contribuintes e contribuir para o desenvolvimento econômico do país.</p>",
+      "icone": {
+        "provider": "uploadcare",
+        "type": "image",
+        "id": "57996a6b-c261-48b6-880b-2e938b07356d",
+        "height": 24,
+        "width": 24
+      }
     },
     {
       "slug": "trabalhista",
       "nome": "Trabalhista",
       "titulo": "DIREITO TRABALHISTA: DEFINIÇÃO E EXEMPLOS",
-      "descricao": "<p>O Direito Trabalhista é o ramo do direito que regula as relações entre empregadores e empregados, estabelecendo as normas que regem o trabalho humano e a proteção social do trabalhador. É responsável por garantir direitos como o salário mínimo, a jornada de trabalho, as férias, a segurança no trabalho e a proteção contra a discriminação.</p><p>Este ramo do direito é fundamental para garantir a dignidade do trabalho humano e a proteção social do trabalhador, buscando equilibrar as relações entre empregados e empregadores. Alguns exemplos de temas tratados pelo Direito Trabalhista são a relação de emprego, os direitos trabalhistas, a segurança e medicina do trabalho, a rescisão do contrato de trabalho, entre outros.</p><p>O principal diploma legal do Direito Trabalhista é a Consolidação das Leis do Trabalho (CLT), que foi promulgada em 1943 e estabelece as normas trabalhistas em território nacional.</p>"
+      "descricao": "<p>O Direito Trabalhista é o ramo do direito que regula as relações entre empregadores e empregados, estabelecendo as normas que regem o trabalho humano e a proteção social do trabalhador. É responsável por garantir direitos como o salário mínimo, a jornada de trabalho, as férias, a segurança no trabalho e a proteção contra a discriminação.</p><p>Este ramo do direito é fundamental para garantir a dignidade do trabalho humano e a proteção social do trabalhador, buscando equilibrar as relações entre empregados e empregadores. Alguns exemplos de temas tratados pelo Direito Trabalhista são a relação de emprego, os direitos trabalhistas, a segurança e medicina do trabalho, a rescisão do contrato de trabalho, entre outros.</p><p>O principal diploma legal do Direito Trabalhista é a Consolidação das Leis do Trabalho (CLT), que foi promulgada em 1943 e estabelece as normas trabalhistas em território nacional.</p>",
+      "icone": {
+        "provider": "uploadcare",
+        "type": "image",
+        "id": "475597c7-8ce9-4922-bb9a-68092d2cfe8e",
+        "height": 24,
+        "width": 24
+      }
     }
   ]
 }
