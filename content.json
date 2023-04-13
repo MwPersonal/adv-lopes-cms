@@ -21,7 +21,18 @@
         "id": "5ca34faf-d048-4296-b5b9-cc09bdcfd603",
         "height": 800,
         "width": 800
-      }
+      },
+      "experiencias": [
+        {
+          "nome": "Revisor e Repórter do \"Diário da Região\" (1954/1956)"
+        },
+        {
+          "nome": "Repórter do \"Diário da Araraquarense\" (1956)"
+        },
+        {
+          "nome": "Redator de \"A Notícia\" (1956/1959)"
+        }
+      ]
     },
     {
       "nome": "Danielle",
