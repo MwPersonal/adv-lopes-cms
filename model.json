@@ -38,6 +38,13 @@
         ":items": {
           "nome": { ":type": "line" }
         }
+      },
+      "experiencias": {
+        ":name": "Experiências",
+        ":description": "Experiências do profissional, exemplo: Empresa X, Empresa Y, etc.",
+        ":items": {
+          "nome": { ":type": "line" }
+        }
       }
     }
   },
