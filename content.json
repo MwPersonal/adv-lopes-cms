@@ -57,10 +57,10 @@
         "width": 1080
       },
       "cargo": "Sócios",
-      "descricao": "Rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat. Vitae et leo duis ut diam quam nulla. Rhoncus urna neque viverra justo nec ultrices. Tincidunt dui ut ornare lectus sit amet est. A diam maecenas sed enim ut sem viverra aliquet. Varius duis at consectetur lorem donec massa.",
+      "descricao": "",
       "tipo": "Advogada SP/MG",
-      "celular": "(17) 99999-9999",
-      "email": "danielle@adv-lopes.com.br",
+      "celular": "",
+      "email": "",
       "oab": "321.029",
       "formacoes": [
         {
@@ -84,7 +84,7 @@
       "nome": "Rhyan",
       "sobrenome": "Issa",
       "cargo": "Associados",
-      "descricao": "Rhyan Issa é um ...",
+      "descricao": "",
       "tipo": "Advogado SP",
       "oab": "381.726",
       "celular": "(17) 8820-9535",
