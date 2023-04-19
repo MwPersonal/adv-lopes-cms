@@ -120,7 +120,14 @@
         }
       ],
       "instagram": "https://www.instagram.com/rayanissa_",
-      "linkedin": "https://www.linkedin.com/in/rayan-issa-b5a6429b"
+      "linkedin": "https://www.linkedin.com/in/rayan-issa-b5a6429b",
+      "foto": {
+        "provider": "uploadcare",
+        "type": "image",
+        "id": "101b03a0-a262-420c-9c72-cf1f5d731faa",
+        "height": 1080,
+        "width": 1080
+      }
     },
     {
       "nome": "Vitor",
