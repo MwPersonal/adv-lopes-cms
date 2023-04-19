@@ -146,7 +146,14 @@
         {
           "nome": "Graduado em Direito pelo Centro Universitário de Rio Preto, UNIRP - 2014/2018"
         }
-      ]
+      ],
+      "foto": {
+        "provider": "uploadcare",
+        "type": "image",
+        "id": "e4705193-2b02-4803-bc59-601a12160b2f",
+        "height": 1080,
+        "width": 1080
+      }
     },
     {
       "nome": "Venessa",
@@ -172,13 +179,58 @@
           "nome": "Graduada em Direito pela UNIP, tendo iniciado a graduação na UEMS"
         }
       ],
-      "linkedin": "https://br.linkedin.com/in/venessa-pereira-3bb45459"
+      "linkedin": "https://br.linkedin.com/in/venessa-pereira-3bb45459",
+      "foto": {
+        "provider": "uploadcare",
+        "type": "image",
+        "id": "e2173c39-ddf7-4656-b60a-396d8a552b77",
+        "height": 435,
+        "width": 324
+      }
     },
     {
       "nome": "João",
       "sobrenome": "Batista Queiroz",
       "cargo": "Sócio",
-      "oab": "76.200"
+      "oab": "76.200",
+      "foto": {
+        "provider": "uploadcare",
+        "type": "image",
+        "id": "7d292fc4-421d-4213-b51c-4f6059f9b41e",
+        "height": 1080,
+        "width": 1080
+      },
+      "experiencias": [
+        {
+          "nome": "- Foi Delegado do Distrito 4480 aos Conselhos de Legislação do Rotary International, realizados em Chicago, Il., em 1980, 2001 e 2004."
+        },
+        {
+          "nome": "Integrou a Comissão Permanente de Serviços à Juventude, do Rotary International, participando, em Chicago, Il., USA, de reunião entre os representantes de todos os continentes."
+        },
+        {
+          "nome": "Foi Instrutor em Assembléias Internacionais do Rotary, em 1988, em Nashville, Ten. e em 1994, em Anahein, Califórnia, USA."
+        },
+        {
+          "nome": "É sócio do Rotary Club de São José do Rio Preto desde 1966, tendo exercido o cargo de Presidente do clube em 1973/74 e de Governador do Distrito 4480, do Rotary International, em 1978/79."
+        },
+        {
+          "nome": "Em 2002/03, foi Presidente da Comissão de Cidadania da 22 Subseção da OAB de São Paulo"
+        },
+        {
+          "nome": "Na Universidade, foi Presidente do Diretório Acadêmico Afonso Pena, da Faculdade de Direito da UMG, em 1954"
+        },
+        {
+          "nome": "- Sócio da ADVOCACIA ARISTIDES LOPES, GABER E QUEIROZ S/C, fundada em 1984;"
+        },
+        {
+          "nome": "Empresário, foi Vice-Presidente do Conselho Nacional de Revendedores Ford, Advoga em São José do Rio Preto e Comarcas da região, desde 1984"
+        }
+      ],
+      "formacoes": [
+        {
+          "nome": "Formado em Direito pela Faculdade de Direito da UFMG em 1956."
+        }
+      ]
     }
   ],
   "areas": [
