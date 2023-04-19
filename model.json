@@ -45,6 +45,14 @@
         ":items": {
           "nome": { ":type": "line" }
         }
+      },
+      "instagram": {
+        ":description": "Link do Instagram do profissional, exemplo: https://www.instagram.com/advlopes/",
+        ":type": "line"
+      },
+      "linkedin": {
+        ":description": "Link do LinkedIn do profissional, exemplo: https://www.linkedin.com/in/advlopes/",
+        ":type": "line"
       }
     }
   },

@@ -43,26 +43,6 @@
         },
         {
           "nome": "Fundador e Diretor de PLENA S/A. SOCIEDADE CORRETORA DE VALORES, cargo ocupado até a alienação de seu controle acionário ao Banco Português do Brasil S/A., em 1967."
-        },
-        {
-          "nome": "Procurador do Estado de São Paulo, 1971/1995, na Procuradoria Regional de São José do Rio Preto."
-        },
-        { "nome": "Advocacia, em São José do Rio Preto, a partir de 1986." },
-        {
-          "nome": "Fundador e Secretário e Presidente do Rotary Clube São José do Rio Preto - Cinquentenário (1986/1988)."
-        },
-        {
-          "nome": "Secretário da 22a. Subsecção da Ordem dos Advogados do Brasil, em São José do Rio Preto (1989/1991)."
-        },
-        { "nome": "Presidente da 22a. Subsecção da OAB (1991/1993)." },
-        {
-          "nome": "Secretário Municipal da Administração de São José do Rio Preto, Gestão Prof. Manoel Antunes (1993/1996)."
-        },
-        {
-          "nome": "Vice-presidente e Presidente da AMIRP - Associação Comunitária Amigos de Rio Preto, gestão (1999/2001)."
-        },
-        {
-          "nome": "Presidente da AMIRP - Associação Comunitária Amigos de Rio Preto, gestão (2002/2004)"
         }
       ]
     },
@@ -81,10 +61,13 @@
       "tipo": "Advogada SP/MG",
       "celular": "(17) 99999-9999",
       "email": "danielle@adv-lopes.com.br",
-      "oab": "123123-AB",
+      "oab": "321.029",
       "formacoes": [
         {
-          "nome": "Master of Law, 2007 - UK University"
+          "nome": "Pós graduada em Direito empresarial pela faculdade legale (2020/2021)"
+        },
+        {
+          "nome": "Pós graduada em Direito e Processo do trabalho pela faculdade Nossa Cidade (2013/2014)"
         }
       ],
       "areas": [
@@ -92,9 +75,110 @@
           "nome": "Trabalhista"
         },
         {
+          "nome": "Empresarial"
+        }
+      ],
+      "instagram": "https://www.instagram.com/dradaniellecerveira/"
+    },
+    {
+      "nome": "Rhyan",
+      "sobrenome": "Issa",
+      "cargo": "Associados",
+      "descricao": "Rhyan Issa é um ...",
+      "tipo": "Advogado SP",
+      "oab": "381.726",
+      "celular": "(17) 8820-9535",
+      "email": "",
+      "formacoes": [
+        {
+          "nome": "Bacharel em Direito – UEMG (2011/2015)"
+        },
+        {
+          "nome": "Pós-graduando em Direito Empresarial - Faculdade Legale (2020/2021)"
+        }
+      ],
+      "areas": [
+        {
           "nome": "Cível"
+        },
+        {
+          "nome": "Trabalhista"
+        }
+      ],
+      "experiencias": [
+        {
+          "nome": "Advogado no Escritório Aristides Lopes, Gaber, Queiroz e advogados associados - 2016"
+        },
+        {
+          "nome": "Estagiário do Núcleo de Práticas Jurídicas – UEMG (2013)"
+        },
+        {
+          "nome": "Estagiário do Núcleo de Práticas Jurídicas – UEMG (2014)"
+        },
+        {
+          "nome": "Estagiário na 3ª Vara Cível da Comarca de São José do Rio Preto/SP - (2009/2010)"
+        }
+      ],
+      "instagram": "https://www.instagram.com/rayanissa_",
+      "linkedin": "https://www.linkedin.com/in/rayan-issa-b5a6429b"
+    },
+    {
+      "nome": "Vitor",
+      "sobrenome": "Laurintino Vilella Cardelíquio",
+      "cargo": "Associado",
+      "oab": "434.486",
+      "experiencias": [
+        {
+          "nome": "Estágio jurídico na AGU - ADVOCACIA GERAL DA UNIÃO (Procuradoria-Seccional de São José do Rio Preto), de novembro de 2016 a junho de 2018"
+        },
+        {
+          "nome": "Estágio jurídico na DPE/SP - DEFENSORIA PÚBLICA DO ESTADO DE SÃO PAULO, de julho de 2018 a junho de 2019"
+        },
+        {
+          "nome": "Advogado em São José do Rio Preto, a partir de setembro de 2019, inscrito nos quadros da Ordem dos Advogados do Brasil sob o nº 434.486"
+        },
+        {
+          "nome": "Membro da Comissão de Direito de Família da 22ª Subseção de São José do Rio Preto – OAB/SP, conforme portaria de nomeação nº 1658/2019 – PR e nos termos da Portaria 1/2019 – PR"
+        }
+      ],
+      "email": "vitorvilella@adv.oabsp.org.br",
+      "formacoes": [
+        {
+          "nome": "Graduado em Direito pelo Centro Universitário de Rio Preto, UNIRP - 2014/2018"
         }
       ]
+    },
+    {
+      "nome": "Venessa",
+      "sobrenome": "Pereira Teixeira",
+      "cargo": "Associada",
+      "oab": "288.455",
+      "experiencias": [
+        {
+          "nome": "Estágio supervisionado na Defensoria Criminal da Comarca de Dourados/MS em 2003 e 2004"
+        },
+        {
+          "nome": "Estagiária no escritório Aristides Lopes, Gaber, Queiroz e Advogados Associados desde 2008"
+        },
+        {
+          "nome": "Advogada atuante a partir de março de 2008"
+        }
+      ],
+      "formacoes": [
+        {
+          "nome": "Bacharel em Letras Tradução pela UFMS em 2004"
+        },
+        {
+          "nome": "Graduada em Direito pela UNIP, tendo iniciado a graduação na UEMS"
+        }
+      ],
+      "linkedin": "https://br.linkedin.com/in/venessa-pereira-3bb45459"
+    },
+    {
+      "nome": "João",
+      "sobrenome": "Batista Queiroz",
+      "cargo": "Sócio",
+      "oab": "76.200"
     }
   ],
   "areas": [
