@@ -132,7 +132,8 @@
     {
       "nome": "Vitor",
       "sobrenome": "Laurintino Vilella Cardelíquio",
-      "cargo": "Associado",
+      "cargo": "Associados",
+      "tipo": "Advogado SP",
       "oab": "434.486",
       "experiencias": [
         {
@@ -165,7 +166,8 @@
     {
       "nome": "Venessa",
       "sobrenome": "Pereira Teixeira",
-      "cargo": "Associada",
+      "cargo": "Associados",
+      "tipo": "Advogada SP/MG",
       "oab": "288.455",
       "experiencias": [
         {
@@ -198,8 +200,9 @@
     {
       "nome": "João",
       "sobrenome": "Batista Queiroz",
-      "cargo": "Sócio",
+      "cargo": "Sócios",
       "oab": "76.200",
+      "tipo": "Advogado SP",
       "foto": {
         "provider": "uploadcare",
         "type": "image",
@@ -243,7 +246,8 @@
       "nome": "Jurandir",
       "sobrenome": "Fernandes de Sousa",
       "oab": "40.172",
-      "cargo": "Sócio",
+      "tipo": "Advogado SP",
+      "cargo": "Sócios",
       "foto": {
         "provider": "uploadcare",
         "type": "image",
