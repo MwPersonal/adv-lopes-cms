@@ -209,7 +209,7 @@
       },
       "experiencias": [
         {
-          "nome": "- Foi Delegado do Distrito 4480 aos Conselhos de Legislação do Rotary International, realizados em Chicago, Il., em 1980, 2001 e 2004."
+          "nome": "Foi Delegado do Distrito 4480 aos Conselhos de Legislação do Rotary International, realizados em Chicago, Il., em 1980, 2001 e 2004."
         },
         {
           "nome": "Integrou a Comissão Permanente de Serviços à Juventude, do Rotary International, participando, em Chicago, Il., USA, de reunião entre os representantes de todos os continentes."
@@ -227,7 +227,7 @@
           "nome": "Na Universidade, foi Presidente do Diretório Acadêmico Afonso Pena, da Faculdade de Direito da UMG, em 1954"
         },
         {
-          "nome": "- Sócio da ADVOCACIA ARISTIDES LOPES, GABER E QUEIROZ S/C, fundada em 1984;"
+          "nome": "Sócio da ADVOCACIA ARISTIDES LOPES, GABER E QUEIROZ S/C, fundada em 1984;"
         },
         {
           "nome": "Empresário, foi Vice-Presidente do Conselho Nacional de Revendedores Ford, Advoga em São José do Rio Preto e Comarcas da região, desde 1984"
@@ -238,6 +238,12 @@
           "nome": "Formado em Direito pela Faculdade de Direito da UFMG em 1956."
         }
       ]
+    },
+    {
+      "nome": "Jurandir",
+      "sobrenome": "Fernandes de Sousa",
+      "oab": "40.172",
+      "cargo": "Sócio"
     }
   ],
   "areas": [
