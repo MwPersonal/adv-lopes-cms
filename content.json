@@ -243,6 +243,33 @@
       ]
     },
     {
+      "nome": "Leonardo",
+      "sobrenome": "Lopes Rodrigues",
+      "oab": "470.644",
+      "tipo": "Advogado SP",
+      "cargo": "Associados",
+      "foto": {
+        "provider": "uploadcare",
+        "type": "image",
+        "id": "4f399d99-e056-4fca-8ed3-0d6ac914e2ff",
+        "height": 412,
+        "width": 412
+      },
+      "formacoes": [
+        {
+          "nome": "Formado pela USP em direito"
+        }
+      ],
+      "experiencias": [
+        {
+          "nome": "Representante da Associação dos Diplomados da Escola Superior de Guerra em São José do Rio Preto"
+        },
+        {
+          "nome": "Direito Agrário e Direito dos Seguros"
+        }
+      ]
+    },
+    {
       "nome": "Jurandir",
       "sobrenome": "Fernandes de Sousa",
       "oab": "40.172",
