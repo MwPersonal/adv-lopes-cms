@@ -288,7 +288,7 @@
     {
       "slug": "tributario",
       "nome": "Tributário",
-      "descricao": "<p>Processos administrativos e Lançamentos Indevidos</p><p>Infrações Fiscais</p><p>Multas Administrativas</p><p>Execuções Fiscais</p>",
+      "descricao": "<ul><li><p>Processos administrativos e Lançamentos Indevidos</p></li><li><p>Infrações Fiscais</p></li><li><p>Multas Administrativas</p></li><li><p>Execuções Fiscais</p></li></ul>",
       "icone": {
         "provider": "uploadcare",
         "type": "image",
@@ -300,7 +300,7 @@
     {
       "slug": "imobiliario",
       "nome": "Imobiliário",
-      "descricao": "<p>Devolução de parcelas</p><p>Juros abusivos</p><p>Atraso na entrega</p><p>Juros de obra</p><p>Defeito no imóvel</p><p>Regularização imobiliária</p>",
+      "descricao": "<ul><li><p>Devolução de parcelas</p></li><li><p>Juros abusivos</p></li><li><p>Atraso na entrega</p></li><li><p>Juros de obra</p></li><li><p>Defeito no imóvel</p></li><li><p>Regularização imobiliária</p></li></ul>",
       "icone": {
         "provider": "uploadcare",
         "type": "image",
@@ -313,7 +313,7 @@
       "slug": "civel",
       "nome": "Cível",
       "titulo": "DIREITO CIVIL: DEFINIÇÃO E EXEMPLOS",
-      "descricao": "<p>Análise e confecção de contratos</p><p>Acidentes de Trânsito</p><p>Cobranças</p><p>Divórcio, guarda, pensão alimentícia e inventário</p>",
+      "descricao": "<ul><li><p>Análise e confecção de contratos</p></li><li><p>Acidentes de Trânsito</p></li><li><p>Cobranças</p></li><li><p>Divórcio, guarda, pensão alimentícia e inventário</p></li></ul>",
       "icone": {
         "provider": "uploadcare",
         "type": "image",
@@ -326,7 +326,7 @@
       "slug": "previdenciario",
       "nome": "Previdenciário",
       "titulo": "DIREITO COMERCIAL: DEFINIÇÃO E EXEMPLOS",
-      "descricao": "<p>Aposentadoria</p><p>Auxílios</p><p>Revisão</p><p>Pensão por morte</p>",
+      "descricao": "<ul><li><p>Aposentadoria</p></li><li><p>Auxílios</p></li><li><p>Revisão</p></li><li><p>Pensão por morte</p></li></ul>",
       "icone": {
         "provider": "uploadcare",
         "type": "image",
@@ -339,7 +339,7 @@
       "slug": "trabalhista",
       "nome": "Trabalhista",
       "titulo": "DIREITO CRIMINAL: DEFINIÇÃO E EXEMPLOS",
-      "descricao": "<p>Reclamação Trabalhista</p><p>Análise de rescisão</p>",
+      "descricao": "<ul><li><p>Reclamação Trabalhista</p></li><li><p>Análise de rescisão</p></li></ul>",
       "icone": {
         "provider": "uploadcare",
         "type": "image",
@@ -352,20 +352,20 @@
       "slug": "empresarial",
       "nome": "Empresarial",
       "titulo": "DIREITO TRIBUTÁRIO: DEFINIÇÃO E EXEMPLOS",
-      "descricao": "<p>Execução de promissórias, cheques e duplicatas</p><p>Estruturação societária</p><p>Assessoria jurídica empresarial</p>",
+      "descricao": "<ul><li><p>Execução de promissórias, cheques e duplicatas</p></li><li><p>Estruturação societária</p></li><li><p>Assessoria jurídica empresarial</p></li></ul>",
       "icone": {
         "provider": "uploadcare",
         "type": "image",
-        "id": "1e09ef6f-c88e-4b96-a10e-ab7a3ca9b92b",
-        "height": 512,
-        "width": 512
+        "id": "7d8aa4a7-8fbb-480b-ace4-de058c6e9f8b",
+        "height": 500,
+        "width": 500
       }
     },
     {
       "slug": "consumidor",
       "nome": "Consumidor",
       "titulo": "DIREITO TRABALHISTA: DEFINIÇÃO E EXEMPLOS",
-      "descricao": "<p>Cobrança abusiva</p><p>Negativação indevida</p><p>Serviços de telefonia</p><p>Atraso/cancelamento de voô</p><p>Contratos Bancários</p>",
+      "descricao": "<ul><li><p>Cobrança abusiva</p></li><li><p>Negativação indevida</p></li><li><p>Serviços de telefonia</p></li><li><p>Atraso/cancelamento de voô</p></li><li><p>Contratos Bancários</p></li></ul>",
       "icone": {
         "provider": "uploadcare",
         "type": "image",
