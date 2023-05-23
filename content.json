@@ -288,12 +288,26 @@
     {
       "slug": "tributario",
       "nome": "Tributário",
-      "descricao": "<ul><li><p>Processos administrativos e Lançamentos Indevidos</p></li><li><p>Infrações Fiscais</p></li><li><p>Multas Administrativas</p></li><li><p>Execuções Fiscais</p></li></ul>"
+      "descricao": "<ul><li><p>Processos administrativos e Lançamentos Indevidos</p></li><li><p>Infrações Fiscais</p></li><li><p>Multas Administrativas</p></li><li><p>Execuções Fiscais</p></li></ul>",
+      "icone": {
+        "provider": "uploadcare",
+        "type": "image",
+        "id": "f64ae62a-d818-413e-a496-8d7bce88218b",
+        "height": 512,
+        "width": 512
+      }
     },
     {
       "slug": "imobiliario",
       "nome": "Imobiliário",
-      "descricao": "<ul><li><p>Devolução de parcelas</p></li><li><p>Juros abusivos</p></li><li><p>Atraso na entrega</p></li><li><p>Juros de obra</p></li><li><p>Defeito no imóvel</p></li><li><p>Regularização imobiliária</p></li></ul>"
+      "descricao": "<ul><li><p>Devolução de parcelas</p></li><li><p>Juros abusivos</p></li><li><p>Atraso na entrega</p></li><li><p>Juros de obra</p></li><li><p>Defeito no imóvel</p></li><li><p>Regularização imobiliária</p></li></ul>",
+      "icone": {
+        "provider": "uploadcare",
+        "type": "image",
+        "id": "448c1bf8-e372-480a-ac39-4054a872723c",
+        "height": 512,
+        "width": 512
+      }
     },
     {
       "slug": "civel",
@@ -316,9 +330,9 @@
       "icone": {
         "provider": "uploadcare",
         "type": "image",
-        "id": "53e8b0d0-890f-4f53-95b5-214e44100e1d",
-        "height": 24,
-        "width": 24
+        "id": "f2fdf2d3-c0cb-4567-85dc-e5ccbf9814d8",
+        "height": 500,
+        "width": 500
       }
     },
     {
@@ -329,9 +343,9 @@
       "icone": {
         "provider": "uploadcare",
         "type": "image",
-        "id": "e7e82e29-d4e4-43f1-b577-8a63ec36d8a1",
-        "height": 300,
-        "width": 300
+        "id": "6de9c344-5a1e-454d-b961-8637829b0c02",
+        "height": 512,
+        "width": 512
       }
     },
     {
@@ -342,9 +356,9 @@
       "icone": {
         "provider": "uploadcare",
         "type": "image",
-        "id": "57996a6b-c261-48b6-880b-2e938b07356d",
-        "height": 24,
-        "width": 24
+        "id": "1e09ef6f-c88e-4b96-a10e-ab7a3ca9b92b",
+        "height": 512,
+        "width": 512
       }
     },
     {
@@ -355,9 +369,9 @@
       "icone": {
         "provider": "uploadcare",
         "type": "image",
-        "id": "475597c7-8ce9-4922-bb9a-68092d2cfe8e",
-        "height": 24,
-        "width": 24
+        "id": "0c28cbae-7e5f-48af-a511-a25c39a923c8",
+        "height": 512,
+        "width": 512
       }
     }
   ]
