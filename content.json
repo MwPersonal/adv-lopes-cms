@@ -78,7 +78,24 @@
           "nome": "Empresarial"
         }
       ],
-      "instagram": "https://www.instagram.com/dradaniellecerveira/"
+      "instagram": "https://www.instagram.com/dradaniellecerveira/",
+      "experiencias": [
+        {
+          "nome": "Conciliadora do Juizado Especial Cível da Comarca de Barretos/SP."
+        },
+        {
+          "nome": "Estagiária da Promotoria de Barretos/SP."
+        },
+        {
+          "nome": "Monitora do Núcleo de Prática Jurídica da Unilago – Convênio com a Defensoria Pública do Estado de São Paulo."
+        },
+        {
+          "nome": "Advogada atuante a partir de maio de 2012, sob a inscrição nº 321.029."
+        },
+        {
+          "nome": "Pós – Graduanda em Direito do Trabalho."
+        }
+      ]
     },
     {
       "nome": "Rayan",
