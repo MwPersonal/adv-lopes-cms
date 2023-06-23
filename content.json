@@ -52,9 +52,9 @@
       "foto": {
         "provider": "uploadcare",
         "type": "image",
-        "id": "0c57fd91-816a-4ba2-b5ef-6479b7da20b7",
-        "height": 1080,
-        "width": 1080
+        "id": "c513a1ac-fa30-4dbc-82d5-bef2ea092273",
+        "height": 1932,
+        "width": 1044
       },
       "cargo": "Sócios",
       "descricao": "",
@@ -141,9 +141,9 @@
       "foto": {
         "provider": "uploadcare",
         "type": "image",
-        "id": "101b03a0-a262-420c-9c72-cf1f5d731faa",
-        "height": 1080,
-        "width": 1080
+        "id": "a8d3eefd-0168-4901-bbba-4fa540c4b214",
+        "height": 2084,
+        "width": 1142
       }
     },
     {
@@ -175,9 +175,9 @@
       "foto": {
         "provider": "uploadcare",
         "type": "image",
-        "id": "e4705193-2b02-4803-bc59-601a12160b2f",
-        "height": 1080,
-        "width": 1080
+        "id": "cd827bb3-2aa2-4034-8e86-16457826776a",
+        "height": 1748,
+        "width": 978
       }
     },
     {
@@ -220,9 +220,9 @@
       "foto": {
         "provider": "uploadcare",
         "type": "image",
-        "id": "7d292fc4-421d-4213-b51c-4f6059f9b41e",
-        "height": 1080,
-        "width": 1080
+        "id": "bf4e5427-f797-4eec-9578-c0cd85ffac01",
+        "height": 1620,
+        "width": 798
       }
     },
     {
@@ -234,9 +234,9 @@
       "foto": {
         "provider": "uploadcare",
         "type": "image",
-        "id": "4f399d99-e056-4fca-8ed3-0d6ac914e2ff",
-        "height": 412,
-        "width": 412
+        "id": "4ef9b4ff-09c9-4f32-bfbe-b6aeb8230ed4",
+        "height": 2954,
+        "width": 2688
       },
       "experiencias": [
         {
