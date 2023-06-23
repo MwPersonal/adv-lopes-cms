@@ -181,52 +181,11 @@
       }
     },
     {
-      "nome": "Venessa",
-      "sobrenome": "Pereira Teixeira Nascimento",
-      "cargo": "Associados",
-      "tipo": "Advogada SP/MG",
-      "oab": "288.455",
-      "experiencias": [
-        {
-          "nome": "Estágio supervisionado na Defensoria Criminal da Comarca de Dourados/MS em 2003 e 2004"
-        },
-        {
-          "nome": "Estagiária no escritório Aristides Lopes, Gaber, Queiroz e Advogados Associados desde 2008"
-        },
-        {
-          "nome": "Advogada atuante a partir de março de 2008"
-        }
-      ],
-      "formacoes": [
-        {
-          "nome": "Bacharel em Letras Tradução pela UFMS em 2004"
-        },
-        {
-          "nome": "Graduada em Direito pela UNIP, tendo iniciado a graduação na UEMS"
-        }
-      ],
-      "linkedin": "https://br.linkedin.com/in/venessa-pereira-3bb45459",
-      "foto": {
-        "provider": "uploadcare",
-        "type": "image",
-        "id": "5e275713-8b72-4304-983b-ef9bd4ac9b47",
-        "height": 435,
-        "width": 435
-      }
-    },
-    {
       "nome": "João",
       "sobrenome": "Batista Queiroz",
       "cargo": "Sócios",
-      "oab": "76.200",
       "tipo": "Advogado SP",
-      "foto": {
-        "provider": "uploadcare",
-        "type": "image",
-        "id": "7d292fc4-421d-4213-b51c-4f6059f9b41e",
-        "height": 1080,
-        "width": 1080
-      },
+      "oab": "76.200",
       "experiencias": [
         {
           "nome": "Foi Delegado do Distrito 4480 aos Conselhos de Legislação do Rotary International, realizados em Chicago, Il., em 1980, 2001 e 2004."
@@ -257,14 +216,21 @@
         {
           "nome": "Formado em Direito pela Faculdade de Direito da UFMG em 1956."
         }
-      ]
+      ],
+      "foto": {
+        "provider": "uploadcare",
+        "type": "image",
+        "id": "7d292fc4-421d-4213-b51c-4f6059f9b41e",
+        "height": 1080,
+        "width": 1080
+      }
     },
     {
       "nome": "Leonardo",
       "sobrenome": "Lopes Rodrigues",
+      "cargo": "Associados",
       "oab": "470.644",
       "tipo": "Advogado SP",
-      "cargo": "Associados",
       "foto": {
         "provider": "uploadcare",
         "type": "image",
@@ -272,11 +238,6 @@
         "height": 412,
         "width": 412
       },
-      "formacoes": [
-        {
-          "nome": "Formado pela USP em direito"
-        }
-      ],
       "experiencias": [
         {
           "nome": "Representante da Associação dos Diplomados da Escola Superior de Guerra em São José do Rio Preto"
@@ -284,21 +245,12 @@
         {
           "nome": "Direito Agrário e Direito dos Seguros"
         }
+      ],
+      "formacoes": [
+        {
+          "nome": "Formado pela USP em direito"
+        }
       ]
-    },
-    {
-      "nome": "Jurandir",
-      "sobrenome": "Fernandes de Sousa",
-      "oab": "40.172",
-      "tipo": "Advogado SP",
-      "cargo": "Sócios",
-      "foto": {
-        "provider": "uploadcare",
-        "type": "image",
-        "id": "4f399d99-e056-4fca-8ed3-0d6ac914e2ff",
-        "height": 412,
-        "width": 412
-      }
     }
   ],
   "areas": [
