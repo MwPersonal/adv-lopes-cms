@@ -317,7 +317,7 @@
     {
       "slug": "imobiliario",
       "nome": "Imobiliário",
-      "descricao": "<ul><li><p>Devolução de parcelas;</p></li><li><p>Juros abusivos;</p></li><li><p>Atraso na entrega;</p></li><li><p>Juros de obra;</p></li><li><p>Defeito no imóvel;</p></li><li><p>Regularização imobiliária.</p></li></ul>",
+      "descricao": "<ul><li><p>Locação;</p></li><li><p>Juros abusivos;</p></li><li><p>Atraso na entrega;</p></li><li><p>Juros de obra;</p></li><li><p>Defeito no imóvel;</p></li><li><p>Regularização imobiliária.</p></li></ul>",
       "icone": {
         "provider": "uploadcare",
         "type": "image",
