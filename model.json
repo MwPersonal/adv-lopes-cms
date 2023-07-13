@@ -24,7 +24,12 @@
       },
       "celular": { ":type": "line" },
       "email": { ":type": "line" },
-      "oab": { ":type": "line" },
+      "oab": {
+        ":items": {
+          "prefix": { ":type": "line" },
+          "numero": { ":type": "line" }
+        }
+      },
       "formacoes": {
         ":name": "Formações",
         ":description": "Formações do profissional, exemplo: Master of Law, UK University, etc.",
