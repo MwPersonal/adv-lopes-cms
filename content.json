@@ -8,7 +8,12 @@
       "tipo": "Advogado SP",
       "celular": "",
       "email": "",
-      "oab": [{ "prefix": "OAB", "numero": "16948" }],
+      "oab": [
+        {
+          "prefix": "OAB",
+          "numero": "16948"
+        }
+      ],
       "formacoes": [
         {
           "nome": "Faculdade de Direito - USP (1960/1964)"
@@ -62,15 +67,21 @@
       "celular": "",
       "email": "",
       "oab": [
-        { "prefix": "OAB/SP", "numero": "321.029" },
-        { "prefix": "OAB/MG", "numero": "220.172" }
+        {
+          "prefix": "OAB/SP",
+          "numero": "321.029"
+        },
+        {
+          "prefix": "OAB/MG",
+          "numero": "220.172"
+        }
       ],
       "formacoes": [
         {
-          "nome": "Pós graduada em Direito empresarial pela faculdade legale (2020/2021)"
+          "nome": "Pós graduada em Direito e Processo do trabalho pela faculdade Nossa Cidade (2013/2014)"
         },
         {
-          "nome": "Pós graduada em Direito e Processo do trabalho pela faculdade Nossa Cidade (2013/2014)"
+          "nome": "Pós graduada em Direito empresarial pela faculdade legale (2020/2021)"
         }
       ],
       "areas": [
@@ -106,7 +117,12 @@
       "cargo": "Associados",
       "descricao": "",
       "tipo": "Advogado SP",
-      "oab": [{ "prefix": "OAB", "numero": "381.726" }],
+      "oab": [
+        {
+          "prefix": "OAB",
+          "numero": "381.726"
+        }
+      ],
       "celular": "(17) 8820-9535",
       "email": "",
       "formacoes": [
@@ -154,7 +170,12 @@
       "sobrenome": "Laurintino Vilella Cardelíquio",
       "cargo": "Associados",
       "tipo": "Advogado SP",
-      "oab": [{ "prefix": "OAB", "numero": "434.486" }],
+      "oab": [
+        {
+          "prefix": "OAB",
+          "numero": "434.486"
+        }
+      ],
       "experiencias": [
         {
           "nome": "Estágio jurídico na AGU - ADVOCACIA GERAL DA UNIÃO (Procuradoria-Seccional de São José do Rio Preto), de novembro de 2016 a junho de 2018"
@@ -188,7 +209,12 @@
       "sobrenome": "Batista Queiroz",
       "cargo": "Sócios",
       "tipo": "Advogado SP",
-      "oab": [{ "prefix": "OAB", "numero": "76.200" }],
+      "oab": [
+        {
+          "prefix": "OAB",
+          "numero": "76.200"
+        }
+      ],
       "experiencias": [
         {
           "nome": "Foi Delegado do Distrito 4480 aos Conselhos de Legislação do Rotary International, realizados em Chicago, Il., em 1980, 2001 e 2004."
@@ -232,7 +258,12 @@
       "nome": "Leonardo",
       "sobrenome": "Lopes Rodrigues",
       "cargo": "Associados",
-      "oab": [{ "prefix": "OAB", "numero": "470.644" }],
+      "oab": [
+        {
+          "prefix": "OAB",
+          "numero": "470.644"
+        }
+      ],
       "tipo": "Advogado SP",
       "foto": {
         "provider": "uploadcare",
